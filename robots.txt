@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://mateuszstahl.github.io/sitemap.xml
