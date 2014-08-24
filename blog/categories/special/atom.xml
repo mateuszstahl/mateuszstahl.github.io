@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Stahl Computer Security]]></title>
-  <link href="http://mateuszstahl.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Special | Stahl Computer Security]]></title>
+  <link href="http://mateuszstahl.github.io/blog/categories/special/atom.xml" rel="self"/>
   <link href="http://mateuszstahl.github.io/"/>
   <updated>2014-08-24T22:26:50+02:00</updated>
   <id>http://mateuszstahl.github.io/</id>
